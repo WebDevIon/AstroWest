@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AstroWest</string>
+    <string name="contact_info">Contact information:</string>
+    <string name="schedule">Monday to Friday 08:00 - 16:00</string>
+    <string name="location">Timisoara, Romania</string>
+    <string name="about_us">About us:</string>
+    <string name="description">Astro West is an importer and distributor of quality astronomical instruments at a very affordable price. We also provide services and optical products, unique in Romania, especially for amateur builders of astronomical instruments, parts, components and free advice to all clients, meeting with offers that meet your budget and preference.</string>
+</resources>
